@@ -1,0 +1,18 @@
+h1 {
+    padding-top: 20px;
+    font-size: xx-large;
+  }
+  p{
+    font-size: small;
+    margin: 0;
+  }
+   
+  .header {
+    height: 16vh;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    margin:0;
+    padding:0;
+    text-align: center;   
+  } 
