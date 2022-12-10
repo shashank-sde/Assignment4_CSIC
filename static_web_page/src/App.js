@@ -6,7 +6,6 @@ import BlogPage from './components/BlogPage/BlogPage.js';
 import BlogPage3 from './components/BlogPage/BlogPage3.js';
 import BlogPage2 from './components/BlogPage/BlogPage2.js';
 import Apirefresh from './components/Apirefresh/Apirefresh.js';
-import Sample from './components/Sample/Sample.js';
 
 import {
   createBrowserRouter,
