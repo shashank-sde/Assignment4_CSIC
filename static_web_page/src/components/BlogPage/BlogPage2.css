@@ -1,0 +1,59 @@
+body{
+    background-color:  rgb(240, 238, 188);
+}
+h2{
+    color:rgba(233, 8, 8, 0.699)
+}
+
+.blogtitle {
+     color: blueviolet;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     text-align: center; 
+     padding-top: 5vh;
+     padding-bottom: 3vh;    
+}
+.date{
+    text-align: left;
+    padding-left: 4vw;
+    color:rgba(66, 66, 61, 0.664);
+    font-weight: bold;
+    font-style: oblique;
+    padding-top: 2vh;
+    padding-top: 2vh;
+    margin-bottom: 2vh;
+}
+.author{
+    text-align: left;
+    padding-left: 4vw;
+    color: darkslategray;
+    font-weight: bolder;
+    padding-top: 2vh;
+    padding-top: 2vh;
+}
+.blogpic{
+    text-align: center;
+    padding-left: 4vw;
+    padding-bottom: 10vh;
+}
+.container{
+    display:grid;
+    width: 100vw;
+    grid-template-columns: 75% 25%;
+}
+.navbar{
+    background-color: darkseagreen;
+    text-align: center;
+    padding-top:200px;
+  }
+.homelink{
+    color:black;
+    font-weight: bolder;
+    padding-top: 0px;
+}
+.blogcontent{
+    padding-left: 4vw;
+    font-size: x-small;
+    padding-bottom: 4vw;
+    padding-right: 20vw;
+    text-align: justify;
+}
