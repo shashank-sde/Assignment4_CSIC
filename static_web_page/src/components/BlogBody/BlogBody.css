@@ -1,0 +1,50 @@
+.post1, .post2, .post3 {
+    background-color: aliceblue;
+    height:auto;
+    width: 70%;
+    margin-top: 55px;
+    margin-left: 100px;
+    text-align: center;
+    border-radius: 5%;
+  }
+  .outer{
+    color: rgba(0, 0, 0, 0.699);
+  }
+  .blogbodytitle{
+    
+    margin-bottom: 15px;
+  }
+  .blogbodyimg{
+    margin-top: 14px;
+    margin-bottom: 12px;
+  }
+  .blogbodydesc{
+    font-size:larger;
+    text-align: justify;
+    margin-left: 95px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-right: 78px;
+  }
+  .container{
+    display:grid;
+    width: 100vw;
+    grid-template-columns: 75% 25%;
+}
+
+.left-cont{
+    background-color: rgb(224, 157, 31);
+    height: auto;
+  }
+  .right-cont{
+    background-color: chartreuse;
+    height: auto;
+  }
+
+  .homelink{
+    padding-left: 80px;
+  }
+  .apilink{
+    padding-left: 80px;
+  }
+  
